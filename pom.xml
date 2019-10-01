@@ -75,10 +75,10 @@
 			<version>2.9.2</version>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
+<distributionManagement>
   <snapshotRepository>
-    <id>nexus</id>
-    <url>http://13.127.140.253:8081/nexus/content/repositories/snapshots/</url>
+    <id>snapshots</id>
+    <url>http://3.87.18.63:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 
